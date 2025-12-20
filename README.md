@@ -3,7 +3,6 @@
 
 ![Version](https://img.shields.io/badge/version-2.0-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 **Pollination Hub** is a lightweight, single-file web interface for accessing the [Pollinations.ai](https://pollinations.ai/) ecosystem. It provides a unified, responsive, and feature-rich workspace for both **AI Text Chat** (LLMs) and **Image Generation**.
 
